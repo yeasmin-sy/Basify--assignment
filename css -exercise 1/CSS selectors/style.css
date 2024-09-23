@@ -1,0 +1,12 @@
+.one{
+    text-align: center;
+    font-weight: bolder;
+}
+ol{
+    list-style-position: inside;
+    text-align: center;
+    font-size: large;
+    font-weight:600;
+    margin-left: -40px;
+    
+}

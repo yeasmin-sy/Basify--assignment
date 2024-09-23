@@ -1,0 +1,29 @@
+
+/* Group */
+h1,h2{
+    color:blueviolet ;
+}
+
+
+
+/* Descendant Selector */
+.box li{
+    color:blue;
+    font-weight: 600;
+}
+/* Chained */
+li.green{
+    color: green;
+}
+
+/* Child Selector */
+.box > p{
+    color: firebrick;
+    font-weight: 600;
+}
+
+/* Multiple combiner */
+ul p.small{
+ font-size: 0.7rem;
+}
+
